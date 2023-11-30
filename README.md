@@ -14,3 +14,9 @@ Manage your todos efficiently with this command-line interface (CLI) application
 - **Medium (m)**
 - **High (h)**
 - **Crucial (c)**
+
+- 
+## Usage
+
+1. **Add a Todo:**
+   ```bash   python todo_manager.py add_todo
