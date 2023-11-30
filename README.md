@@ -15,7 +15,7 @@ Manage your todos efficiently with this command-line interface (CLI) application
 - **High (h)**
 - **Crucial (c)**
 
-- 
+
 ## Usage
 
 1. **Add a Todo:**
