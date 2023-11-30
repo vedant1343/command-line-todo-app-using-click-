@@ -19,4 +19,12 @@ Manage your todos efficiently with this command-line interface (CLI) application
 ## Usage
 
 1. **Add a Todo:**
-   ```bash   python todo_manager.py add_todo
+   ```bash
+   python todo_manager.py add_todo
+2. **Delete a Todo**
+   ```bash
+   python todo_manager.py delete_todo <index>
+3. ***List all Todos**
+   ```bash
+   python todo_manager.py list_todos [-p PRIORITY]
+   
