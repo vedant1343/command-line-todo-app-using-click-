@@ -1,5 +1,5 @@
 # command-line-todo-app-using-click-
-Manage your todos efficiently with this command-line interface (CLI) application built in Python using the Click library.
+Manage your todos with this command-line interface (CLI) application built in Python using the Click library.
 
 ## Features
 
